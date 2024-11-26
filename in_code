@@ -1,0 +1,10 @@
+// Archivo traducido a Java
+public class Main { 
+	public static void Multiply(Numero1,Numero2){ 
+		int res = Numero1*Numero2;
+
+}
+
+
+}
+

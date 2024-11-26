@@ -1,0 +1,5 @@
+def Multiply(Numero1, Numero2):
+    res = Numero1 * Numero2
+    return res
+
+print(Multiply(5, 8))
