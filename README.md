@@ -1,2 +1,2 @@
 # antlr4_Program
-Entrega de el programa de antlr4
+Entrega del programa de antlr4
